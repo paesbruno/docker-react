@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed on the feature branch! And make new test!
+          I was changed on the feature branch! And make new test to deploy!
         </p>
         <a
           className="App-link"
